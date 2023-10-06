@@ -10,7 +10,7 @@ Ex: for a $120 purchase, the customer receives
 (120 - 50) x 1 + (120 - 100) x 1 = 90 points
 
 Given a record of every transaction during a three-month period, calculate the reward points earned for each customer per month and total. 
-•	Make up a data set to best demonstrate your solution
-•	Check solution into GitHub and please share the GitHub URL.
+1. Make up a data set to best demonstrate your solution
+2. Check solution into GitHub and please share the GitHub URL.
 
 Write a REST API that calculates and returns the reward points in Java using Spring Boot as a microservice. 
