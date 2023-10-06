@@ -29,6 +29,14 @@ Transaction data
 
 ![image](https://github.com/Koushik091/Calculate-Rewards-REST-API/assets/147114863/14fe9ff6-2d17-450e-b9d1-c105ec731596)
 
+
+Test Case Execution:
+
+![Test Cases](https://github.com/Koushik091/Calculate-Rewards-REST-API/assets/147114863/6c1a64e6-cea2-4909-9f4b-140a4bbb57ca)
+
+Health Check End point : http://localhost:8080/actuator/health
+Other Metrics : http://localhost:8080/actuator 
+
 REST Endpoints in the application
 1.	Get all customer data with respective transaction data and reward points http://localhost:8080/api/customers
 
