@@ -16,3 +16,4 @@ Given a record of every transaction during a three-month period, calculate the r
 Write a REST API that calculates and returns the reward points in Java using Spring Boot as a microservice. 
 
 
+![image](https://github.com/Koushik091/Calculate-Rewards-REST-API/assets/147114863/ada84c83-3aa4-4e4b-9318-e1bebf7f35fd)
