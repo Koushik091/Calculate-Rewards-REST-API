@@ -136,6 +136,9 @@ Sample response:
         "totalPurchases": 369.44
     }
 ]
+
+
+
 2.	Get transaction data and reward points for that specific customer http://localhost:8080/api/customers/{id}
 Sample response:
 {
